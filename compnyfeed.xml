@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+
+-<channel>
+
+<title>Coupons Feeds</title>
+
+
+-<item>
+
+<DealTitle>Leatherman Skeletool CX Stainless Steel Multitool</DealTitle>
+
+<DealId>0000</DealId>
+
+<DealType>Coupon</DealType>
+
+<DealCode>0000</DealCode>
+
+<Dealcomment>Diwali offer</Dealcomment>
+
+<Currency>INR</Currency>
+
+<CountryCode>IN</CountryCode>
+
+<MinimumPrice>100.00</MinimumPrice>
+
+<MaximumOffer>500.00</MaximumOffer>
+
+<DealDescription>Early New Year Sale: SpiceJet domestic flight starting at Rs. 699. Book by 1st October for travel between 16th January to 24th October 2015. No coupon code required.</DealDescription>
+
+<DealImage>http://static.itpro.co.uk/sites/itpro/files/styles/gallery_wide/public/images/dir_207/it_photo_103723.jpg?itok=l3py3YRL</DealImage>
+
+<PublishedDate>Wed, 21 Oct 2014 12:59:19 -0000</PublishedDate>
+
+<ExpiryDate>Wed, 31 Oct 2014 23:59:59 -0000</ExpiryDate>
+
+<DealLink>https://www.google.co.in/</DealLink>
+
+<ProductCategory/>
+
+<ProductCategoryId/>
+
+<Conditions>Valid only on Biba Apparels</Conditions>
+
+<Advertiserlogo>http://www.adgully.com/image/52504_ebay-india.jpg</Advertiserlogo>
+
+</item>
+
+</channel>
+
+</rss>
