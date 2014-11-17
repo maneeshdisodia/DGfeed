@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: DGM Coupon Feeder
-Plugin URI: http://www.google.com
+Plugin URI: http://www.dgm-india.com/
 DealDescription: Post rss to your blog
 Author: maneesh disodia
 Version: 1.0
